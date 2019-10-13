@@ -1,0 +1,2 @@
+# BookSwap
+This is a graduation project.The goal of the project is to make it possible for people to exchange the books between them. The application has a library of books sent by people. Users can get one or more books by sending the same number of books. The books will be added after the admin’s check. If books are unreadable and inappropriate as content, it will be sent back to their owners. Also, users can donate books. 
